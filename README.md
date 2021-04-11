@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository
+This is Sohit, I am making my first repository.
+
